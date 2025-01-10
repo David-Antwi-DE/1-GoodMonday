@@ -1,1 +1,1 @@
-print("hello world")
+print("Its the developer academy")
